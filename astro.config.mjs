@@ -44,9 +44,9 @@ if (process.env.NODE_ENV === "development") {
 
 // https://astro.build/config
 export default defineConfig({
-	site: "https://eastoh.github.io/Firefly/", 
+	site: "https://github.com/eastoh/Firefly", 
 	
-	base: "/",
+	base: "/Firefly/",
 	trailingSlash: "always",
 
 	// 图像优化配置
