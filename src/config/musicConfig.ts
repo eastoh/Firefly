@@ -6,7 +6,7 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 	showInNavbar: true,
 
 	// 播放器模式：meting=API解析，local=本地列表
-	mode: "meting",
+	mode: "local",
 
 	// 默认音量 0~1
 	volume: 0.7,
@@ -40,11 +40,11 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 	local: {
 		playlist: [
 			{
-				name: "樱花树下的DJ",
-				artist: "旺仔小乔",
-				url: "/assets/music/樱花树下的约定（DJ-lucky小阳版） - 旺仔小乔.mp3",
-				cover: "/assets/music/cover/109951169585655912.webp",
-				lrc: "/assets/music/yinghua.lrc",
+				name: "爱情讯息",
+				artist: "郭静",
+				url: "/assets/music/爱情讯息 - 郭静.mp3",
+				cover: "/assets/music/aiqingxunxi.webp",
+				lrc: "/assets/music/郭静-爱情讯息.lrc",
 			},
 		],
 	},
