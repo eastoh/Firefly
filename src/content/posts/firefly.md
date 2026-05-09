@@ -1,6 +1,6 @@
 ---
 title: 欢迎↓光↑临↓
-published: 2026-05-4
+published: 2026-05-04
 pinned: true
 description: 欢迎来到我的博客！
 tags: [Markdown, Firefly, 博客, 主题, 模板]
