@@ -44,7 +44,7 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 				artist: "郭静",
 				url: "/assets/music/爱情讯息 - 郭静.mp3",
 				cover: "/assets/music/aiqingxunxi.webp",
-				lrc: "/assets/music/郭静-爱情讯息.lrc",
+				lrc: "",
 			},
 		],
 	},
