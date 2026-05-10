@@ -15,11 +15,11 @@ export const galleryConfig: GalleryConfig = {
 		// 每添加一个数组项就相当于添加了一个相册，记得在 public/gallery/ 目录下创建对应的子目录并放入图片
 		{
 			id: "Gaozhong",
-			name: "LJJ美图库",
+			name: "高中",
 			description: "神圣的事一定要神秘的人来做！",
 			location: "绝密★启用前",
-			date: "2026-01-01",
-			tags: ["LJJ", "ljj"],
+			date: "2026-05-10",
+			tags: ["李梦洁", "阳维智", "肖东浩", "楚馨然"],
 		},
 	],
 
