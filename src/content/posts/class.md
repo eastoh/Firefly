@@ -5,7 +5,7 @@ pinned: false
 description: 一个50元引出来“幸运”事件！究竟是社会的黑暗，还是人性的扭曲！
 tags: [衡阳市铁一中学, 一体机, 希沃, 电教]
 category: 自身经验
-draft: true
+draft: false
 ---
 
 ## 🌟 ◼总览
