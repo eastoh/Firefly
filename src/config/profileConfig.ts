@@ -24,26 +24,14 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "qq",
 			icon: "fa7-brands:qq",
-			url: "",
-			showName: false,
+			url: "https://qm.qq.com/cgi-bin/qm/qr?k=tmyWwMS8BJPTWSfH2jpEe6BYHUvyE7PZ",
+			showName: true,
 		},
-		{
-			name: "GitHub",
-			icon: "fa7-brands:github",
-			url: "",
-			showName: false,
-		},
-		{
-			name: "Email",
-			icon: "fa7-solid:envelope",
-			url: "",
-			showName: false,
-		},
-		{
-			name: "RSS",
-			icon: "fa7-solid:rss",
-			url: "",
-			showName: false,
-		},
-	],
+	{
+  name: "邮箱",
+  icon: "fa7-solid:envelope",
+  url: "http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=2uvj4u7v7_vu4u6aq6v0ubW3",
+  showName: true,
+},
+],
 };

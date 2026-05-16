@@ -3,7 +3,7 @@ title: 欢迎你的到来！
 published: 2026-05-04
 pinned: true
 description: 欢迎来到我的博客！
-tags: [Markdown, Firefly, 博客, 主题, 模板]
+tags: [博客]
 category: 随便写的
 draft: false
 image: ./images/firefly2.avif

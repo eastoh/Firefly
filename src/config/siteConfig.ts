@@ -7,20 +7,23 @@ const SITE_LANG = "zh_CN";
 
 export const siteConfig: SiteConfig = {
 	// 站点标题
-	title: "Eastoh",
+	title: "东浩的小站",
 
 	// 站点副标题
-	subtitle: "xiao的小站",
+	subtitle: "Eastoh",
 
 	// 站点 URL
 	site_url: "https:",
 
 	// 站点描述
 	description:
-		"额，对，就是放点自己的人生进展吧",
+		"这里是衡阳市铁一中Eastoh的小站",
 
 	// 站点关键词
 	keywords: [
+		"东浩的小站",
+		"eastoh",
+		"Eastoh",
 		"肖东浩",
 		"衡阳市铁一中学",
 		"衡阳",
